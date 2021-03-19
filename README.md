@@ -1,2 +1,2 @@
 # githubprojC
-c programing 
+c programing software by Astha pandey
